@@ -44,3 +44,5 @@ print(is_light_on)
 # Declare multiple variable on one line
 firstname, lastname, age = 'Kieren', 'Smith', 25
 print(first_name, last_name, age)
+
+
